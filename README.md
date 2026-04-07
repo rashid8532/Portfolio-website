@@ -35,3 +35,13 @@ A passionate BCA student and aspiring web developer focused on building modern a
 ![Portfolio Screenshot](screenshot.png)
 
 ---
+
+## 📸 Screenshot
+
+![Portfolio Screenshot](screenshot1.png)
+
+---
+
+## 📸 Screenshot
+
+![Portfolio Screenshot](screenshot2.png)
